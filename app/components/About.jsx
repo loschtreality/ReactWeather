@@ -4,7 +4,7 @@ var {Link} = require('react-router')
 var About = (props) => {
   return (
     <div>
-        <h1 className="text-center">About</h1>
+        <h1 className="text-center page-title">About</h1>
         <p>This is a basic React application which fetches weather data from a weather API. Below are the resources used for this application:</p>
       <ol>
         <li>
